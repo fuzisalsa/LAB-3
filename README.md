@@ -2,7 +2,12 @@
 tanggal 12 agustus 2025
 # Blank Configuration di Mikrotik 
 
-  Ada beberapa cara untuk mendapatkan blank configuration mikrotik, salah satunya yaitu dengan **Reset Configuration**.via winbox  
+  Ada beberapa cara untuk mendapatkan blank configuration mikrotik, salah satunya yaitu dengan **Reset Configuration**.via winbox 
+
+  pas di tampilan awal login mikrotik kalian akan muncul pop up ini, pilih **remove configuration**.  
+![reset](dp.PNG)
+
+  atau,    
   1.Reset configuration   
 
 ![reset](reset.PNG)
@@ -15,8 +20,8 @@ tanggal 12 agustus 2025
 
  Blank configuration mikrotik merupakan mikrotik yang belum dikonfigurasi , atau masih kosong
  konfigurasi nya.untuk mengakses mikrotik yang sudah di blank kan ini kita bisa mengakses melalui ether1.  
- Dan kita harus mengunakan MACAddress untuk login, karna Mikrotik belum memiliki IP.
-
- #kesimpulan 
+ Dan kita harus mengunakan MACAddress untuk login, karna Mikrotik belum memiliki IP.  
+ 
+ # kesimpulan   
  blak configuration sangat cocok bagi yang mau belajar dari awal tentang mikrotik.
     
