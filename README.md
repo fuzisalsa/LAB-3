@@ -2,7 +2,7 @@
 tanggal 12 agustus 2025
 # Blank Configuration di Mikrotik 
 
-  Ada beberapa cara untuk mendapatkan blank configuration mikrotik, salah satunya yaitu dengan **Reset Configuration**.  
+  Ada beberapa cara untuk mendapatkan blank configuration mikrotik, salah satunya yaitu dengan **Reset Configuration**.via winbox  
   1.Reset configuration   
 
 ![reset](reset.PNG)
